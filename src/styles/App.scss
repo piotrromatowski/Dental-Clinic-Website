@@ -1,0 +1,45 @@
+@import "./home";
+@import "./home-slider";
+@import "./services";
+@import "./navbar";
+@import "./dropdown";
+@import "./button";
+@import "./team";
+@import "./gallery";
+@import "./prices";
+@import "./contact";
+@import "./sign-up";
+@import "./user-account";
+@import "./servises-styles/comprehensive";
+@import "./servises-styles/root-canal";
+@import "./servises-styles/dental-surgery";
+@import "./servises-styles/implants";
+@import "./servises-styles/prosthodontics";
+@import "./servises-styles/cosmetic-dentistry";
+@import "./servises-styles/orthodontics";
+@import "./servises-styles/conservative-dentistry";
+@import "./servises-styles/pediatric-dentistry";
+@import "./servises-styles/dental-x-ray";
+@import "./servises-styles/dental-hygiene";
+@import "./servises-styles/periodontology";
+@import "./servises-styles/cookies";
+@import "./footer";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  // background-color: white !important;
+  // color: black !important;
+
+  // button {
+  //   color: black !important;
+  //   background-color: rgb(19, 179, 219) !important;
+  // }
+}
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  font-family: "Roboto Condensed", sans-serif;
+}
